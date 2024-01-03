@@ -916,6 +916,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 section.secondary {
     background: #f8f8f8;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   }
   
   section h2 {
@@ -969,7 +970,7 @@ section.secondary {
     background: white;
     margin: 30px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-  }
+      }
   
   .card-body {
     padding: 30px;
