@@ -102,7 +102,7 @@ h6 {
 }
 
 .top-header h1 {
-    font-size: 7vw;
+    font-size: 9vw;
     font-weight: 800;
     color: whitesmoke;
 }
@@ -120,6 +120,7 @@ h6 {
     color: #5385d1;
 }
 .top-header h3{
+    font-size: 7vw;
     font-weight: 500px;
     color: white;
 }
