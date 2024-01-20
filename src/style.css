@@ -675,7 +675,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     top: 0;
     right: 100%;
     left: 0;
-    background: #462cb3;
+    background: #272044;
 }
 
 .services .single-service::after {
@@ -685,7 +685,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     bottom: 0;
     right: 0;
     left: 100%;
-    background: #462cb3;
+    background: #272044;
 }
 
 .services .single-service:hover::before {
@@ -704,7 +704,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin: 0 auto 20px;
     text-align: center;
     width: 120px;
-    color: #462cb3;
+    color: #272044;
 }
 
 .services .single-service h4,
@@ -740,7 +740,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     position: relative;
     text-align: center;
     color: #ffffff;
-    background: #462cb3;
+    background: #272044;
 }
 
 .counters .counter .counter-icon-box {
@@ -804,18 +804,18 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin: 15px -3px 5px -3px;
     display: inline-block;
     padding: 10px 15px;
-    color: #462cb3;
+    color: #272044;
     font-size: 14px;
     line-height: 15px;
     text-transform: uppercase;
-    border: 1px solid #462cb3;
+    border: 1px solid #272044;
     background: #ffffff;
     transition: all 0.3s ease-in-out;
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    background: #462cb3;
+    background: #272044;
     color: #ffffff;
 }
 
@@ -830,7 +830,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .portfolio .portfolio-item figure {
-    background: #462cb3;
+    background: #272044;
     overflow: hidden;
     height: 220px;
     position: relative;
@@ -865,7 +865,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .portfolio .portfolio-item figure .link-preview:hover,
 .portfolio .portfolio-item figure .link-details:hover {
-    background: #462cb3;
+    background: #272044;
 }
 
 .portfolio .portfolio-item figure .link-preview:hover i,
@@ -891,7 +891,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     right: 0;
     top: 100%;
     padding: 30px 10px;
-    color: #462cb3;
+    color: #272044;
     font-size: 18px;
     font-weight: 400;
     text-transform: capitalize;
@@ -1001,7 +1001,7 @@ section.secondary {
     letter-spacing: 3px;
     text-transform: uppercase;
     padding: 16px;
-    background-color: #462cb3;
+    background-color: #272044;
     text-decoration: none;
   }
 
@@ -1047,7 +1047,7 @@ section.secondary {
 
 .blogs i {
     padding: 20px 0;
-    color: #462cb3;
+    color: #272044;
 }
 
 .blogs .blog-item {
@@ -1068,11 +1068,11 @@ section.secondary {
     font-size: 20px;
     font-weight: 400;
     margin: 15px 0 5px 0;
-    color: #462cb3;
+    color: #272044;
 }
 
 .blogs .blog-item h4 {
-    color: #462cb3;
+    color: #272044;
     font-size: 16px;
     font-weight: 400;
     font-style: italic;
@@ -1101,7 +1101,7 @@ section.secondary {
 }
 
 .blogs .owl-dot.active {
-    background-color: #462cb3;
+    background-color: #272044;
 }
 
 
@@ -1113,7 +1113,7 @@ section.secondary {
 
 .contact .contact-info p {
     margin-bottom: 10px;
-    color: #462cb3;
+    color: #272044;
     font-size: 22px;
     font-weight: 300;
 }
@@ -1125,16 +1125,16 @@ section.secondary {
 }
 
 .contact .contact-info a {
-    color: #462cb3;
+    color: #272044;
 }
 
 .contact .contact-info a:hover {
-    color: #462cb3;
+    color: #272044;
 }
 
 .contact .contact-info i {
     width: 30px;
-    color: #462cb3;
+    color: #272044;
 }
 
 .contact .social {
@@ -1150,17 +1150,17 @@ section.secondary {
     padding: 1px 0;
     text-align: center;
     font-size: 22px;
-    border: 1px solid #462cb3;
+    border: 1px solid #272044;
     
 
 }
 
 .contact .social a i {
-    color: #462cb3;
+    color: #272044;
 }
 
 .contact .social a:hover {
-    background: #462cb3;
+    background: #272044;
 }
 
 .contact .social a:hover i {
@@ -1168,7 +1168,7 @@ section.secondary {
 }
 
 .contact .form {
-    color: #462cb3;
+    color: #272044;
     font-weight: 300;
 }
 
@@ -1186,7 +1186,7 @@ section.secondary {
 
 .contact .form button[type="submit"] {
     padding: 7px 30px 10px 30px;
-    color: #462cb3;
+    color: #272044;
     letter-spacing: 1px;
     transition: 0.3s;
     cursor: pointer;
