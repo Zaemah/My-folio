@@ -62,10 +62,14 @@ h6 {
 
 
 .main-container{
-    max-width: 1400px;
+    max-width: 1800px;
     margin: 0 auto;
 }
-
+ section {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 100px 0;
+ }
 
 .top-header {
     display: table;
