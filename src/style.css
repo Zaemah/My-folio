@@ -1191,12 +1191,12 @@ section.secondary {
     transition: 0.3s;
     cursor: pointer;
     border-radius: 0;
-    border: 1px solid #462cb3;
+    border: 1px solid #272044;
     background: #ffffff;
 }
 
 .contact .form button[type="submit"]:hover {
-    background: #462cb3;
+    background: #272044;
     color: #FFFFFF;
 }
 
@@ -1245,7 +1245,7 @@ section {
     letter-spacing: 3px;
     text-transform: uppercase;
     padding: 16px;
-    background-color: #462cb3;
+    background-color: #272044;
     text-decoration: none;
   }
 
