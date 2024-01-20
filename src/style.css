@@ -1,6 +1,6 @@
 
 body {
-    color: #462cb3;
+    color: #272044;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     background: #ffffff;
@@ -8,14 +8,14 @@ body {
 }
 
 a {
-    color: #462cb3;
+    color: #272044;
     transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #462cb3;
+    color: #272044;
     outline: none;
     text-decoration: none;
 }
@@ -33,7 +33,7 @@ h4,
 h5,
 h6 {
     font-family: 'Solway', serif;
-    color: #462cb3;
+    color: #272044;
     margin: 0 0 15px 0;
     padding: 0;
 }
@@ -41,7 +41,7 @@ h6 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #462cb3;
+    background: #272044;
     color: #ffffff;
     width: 44px;
     height: 44px;
@@ -124,7 +124,8 @@ h6 {
     height: 40px;
     font-size: 5vw;
     font-weight: 250;
-    color: #5385d1;
+    color: #272044;
+    opacity: 0,5;
 }
 .top-header h3{
     font-size: 7vw;
@@ -137,7 +138,7 @@ h6 {
 
 
 .header {
-    background: #462cb3;
+    background: #272044;
     height: 70px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
@@ -285,7 +286,7 @@ h6 {
 }
 
 .nav-menu ul li:hover {
-    background: #462cb3;
+    background: #272044;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
@@ -394,11 +395,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-    color: #462cb3;
+    color: #272044;
 }
 
 #mobile-nav ul .menu-item-active {
-    color: #462cb3;
+    color: #272044;
 }
 
 #mobile-body-overly {
@@ -431,14 +432,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-header h2,
 .section-header h3 {
     display: inline-block;
-    color: #462cb3;
+    color: #272044;
     font-size: 35px;
     text-transform: capitalize;
     text-align: left;
     font-weight: 700;
     position: relative;
     padding-bottom: 5px;
-    border-bottom: 1px solid #462cb3;
+    border-bottom: 1px solid #272044;
 }
 
 .section-header h2::before,
@@ -452,7 +453,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     right: 0;
     border-top: 10px solid;
     border-right: 10px solid;
-    border-color: transparent #462cb3;
+    border-color: transparent #272044;
 }
 
 .section-header h2::after,
@@ -466,7 +467,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     left: 0;
     border-top: 10px solid;
     border-left: 10px solid;
-    border-color: transparent #462cb3;
+    border-color: transparent #272044;
 }
 
 .section-header p {
@@ -515,22 +516,22 @@ body.mobile-nav-active #mobile-nav-toggle {
 .about a {
     display: inline-block;
     padding: 6px 20px;
-    color: #462cb3;
+    color: #272044;
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 1px;
-    border: 1px solid #462cb3;
+    border: 1px solid #272044;
 }
 
 .about a:hover {
     color: #ffffff;
-    background: #462cb3;
+    background: #272044;
 }
 
 .about .skills h3 {
     font-size: 22px;
     font-weight: 700;
-    color: #462cb3;
+    color: #272044;
     margin-bottom: 15px;
 }
 
@@ -556,7 +557,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about .progress .progress-bar {
-    background: #462cb3;
+    background: #272044;
     border-radius: 0;
 }
 
@@ -586,7 +587,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     top: 30px;
     right: 100%;
     left: 15px;
-    background: #462cb3;
+    background: #272044;
 }
 
 .experience .exp-column::after {
@@ -596,7 +597,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     bottom: 0;
     right: 15px;
     left: 100%;
-    background: #462cb3;
+    background: #272044;
 }
 
 .experience .exp-column:hover::before {
@@ -611,7 +612,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .experience .exp-date {
     margin-bottom: 5px;
-    color: #462cb3;
+    color: #272044;
     font-size: 16px;
     font-weight: 300;
     letter-spacing: 2px;
@@ -624,14 +625,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .experience .exp-company {
     margin-bottom: 0;
-    color: #462cb3;
+    color: #272044;
     font-size: 18px;
     font-weight: 400;
 }
 
 .experience .exp-designation {
     margin-bottom: 10px;
-    color: #462cb3;
+    color: #272044;
     font-size: 16px;
     font-weight: 400;
     font-style: italic;
