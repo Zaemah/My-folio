@@ -184,7 +184,7 @@ h6 {
 .header .social-nav a {
     font-size: 24px;
     margin-left: 15px;
-    color: #fff;
+    color: #272044;
 }
 
 .header .social-nav a:hover {
@@ -329,6 +329,7 @@ h6 {
 #mobile-nav-toggle i {
     color: #fff;
 }
+
 
 @media (max-width: 768px) {
     #mobile-nav-toggle {
